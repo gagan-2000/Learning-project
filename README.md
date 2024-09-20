@@ -1,2 +1,4 @@
 # Learning-project
-This my first git repositary
+
+This is my first git repository.
+Author - Gagan2000
